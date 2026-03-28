@@ -1,6 +1,7 @@
 # AI sử dụng chat GPT 
 # Prompt đã sử dụng Hãy viết CSS cho một trang HTML (dùng table và thẻ center, không thay đổi HTML) để giao diện giống landing page Apple với các yêu cầu sau:
 # Kết quả
+```
 <style>
   body {
     margin: 0;
@@ -106,4 +107,5 @@
     }
   }
 </style>
+```
 
